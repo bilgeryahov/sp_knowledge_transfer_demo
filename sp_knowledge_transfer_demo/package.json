@@ -1,0 +1,23 @@
+{
+  "name": "sp_knowledge_transfer_demo",
+  "version": "1.0.0",
+  "description": "Knowledge transfer demo project for Studyportals.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilgeryahov/sp_knowledge_transfer_demo.git"
+  },
+  "keywords": [
+    "knowledge",
+    "transfer"
+  ],
+  "author": "Bilger Yahov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilgeryahov/sp_knowledge_transfer_demo/issues"
+  },
+  "homepage": "https://github.com/bilgeryahov/sp_knowledge_transfer_demo#readme"
+}
